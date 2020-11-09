@@ -208,7 +208,7 @@ public class Storage {
             time = LocalTime.parse(taskInFile[EVENT_TIME].trim());
             item = new Exam(taskInFile[EVENT_MODULE_CODE], date, time, taskInFile[EVENT_VENUE]);
         } catch (DateTimeException e) {
-            System.out.println("Invalid exam date time" + taskInFile[EVENT_DATE] + " " + taskInFile[EVENT_TIME]
+            System.out.println("Invalid exam date time " + taskInFile[EVENT_DATE] + " " + taskInFile[EVENT_TIME]
                     + " for " + taskInFile[EVENT_MODULE_CODE]);
         }
         return item;

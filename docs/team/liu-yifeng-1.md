@@ -28,6 +28,8 @@ for more details.
    user entered the correct information.
    * Highlights: This feature is functional with or without the Internet.
   
+<br/>
+
 ### Enhancement to existing features:
 * Shorten and Standardised the user command input format to make the code more readable.
   ([\#56](https://github.com/AY2021S1-CS2113T-T12-2/tp/pull/56))
@@ -47,10 +49,10 @@ for more details.
   ([\#148](https://github.com/AY2021S1-CS2113T-T12-2/tp/pull/148),
   [\#149](https://github.com/AY2021S1-CS2113T-T12-2/tp/pull/149)
 )
-* Added the DevOps guide, Non-functional Requirements, Product Scope and User Stories
-* Added implementation and sequence diagram for `print events` and `print tasks`
+* Added the DevOps guide, Non-functional Requirements, Product Scope and User Stories.
+* Added implementation and sequence diagram for `print events` and `print tasks`.
   ([\#164](https://github.com/AY2021S1-CS2113T-T12-2/tp/pull/149))
-* Added implementation sequence diagram for ModuleChecker
+* Added implementation sequence diagram for ModuleChecker.
   ([\#185](https://github.com/AY2021S1-CS2113T-T12-2/tp/pull/185),
   [\#284](https://github.com/AY2021S1-CS2113T-T12-2/tp/pull/284)
   )
